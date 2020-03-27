@@ -1,11 +1,10 @@
 {
   "name": "ember-api-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
-  "description": "Small description for ember-api-test goes here",
+  "description": "testing my test-api",
   "repository": "",
-  "license": "MIT",
-  "author": "",
+  "author": "rcasey",
   "directories": {
     "doc": "doc",
     "test": "tests"
